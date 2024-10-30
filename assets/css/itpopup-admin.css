@@ -1,0 +1,18 @@
+/* Admin Page CSS */
+
+.description_field {
+    font-size: 13px;
+    font-style: italic;
+}
+
+.it-popup-notice-block {
+    padding: 10px;
+    background-color: #2196F3;
+    color: white;
+    opacity: 0.83;
+    transition: opacity 0.6s;
+    margin-bottom: 15px;
+}
+.it-popup-notice{
+	font-size: 15px;
+}
